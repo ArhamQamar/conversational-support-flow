@@ -80,6 +80,7 @@ Open the URL shown in the terminal (e.g. `http://localhost:3000`). Ask about an 
 ## Screenshots
 
 Agent Workflow Monitor
+
 <img width="662" height="413" alt="image" src="https://github.com/user-attachments/assets/9a09c3d5-6489-48fc-af6f-0b2d9d31515a" />
 
 Customer Support Chat window
